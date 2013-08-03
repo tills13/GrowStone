@@ -1,0 +1,9 @@
+name: GrowStone
+main: com.jseb.growstone.GrowStone
+version: 1.0
+author: tills13
+
+commands:
+  growstone:
+    description: 
+    usage: /<command> reload config
